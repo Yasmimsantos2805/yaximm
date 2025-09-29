@@ -1,0 +1,9 @@
+body {
+    background-color: lightgreen;
+    color: whitesmoke;
+    font-family: "Dancing Script", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+}
