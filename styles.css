@@ -1,9 +1,16 @@
 body {
-    background-color: lightgreen;
-    color: whitesmoke;
+    background-color:#e0ffff;
+    color: rgba(116, 43, 43, 0.651);
     font-family: "Dancing Script", cursive;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: lightpink;
+    color: rgba(116, 43, 43, 0.651);
+    font-family: "Dancing Script", cursive;
 }
